@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3600fb1-1ea4-4fc5-b11c-9f15711133fb" name="Changes" comment="Add 2">
+    <list default="true" id="b3600fb1-1ea4-4fc5-b11c-9f15711133fb" name="Changes" comment="Add 3">
+      <change afterPath="$PROJECT_DIR$/lesson4_1_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_1_files/csv_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_1_files/file_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_1_files/files_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_1_files/user.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3_1_functionPRO/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3_1_functionPRO/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3_1_functionPRO/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3_1_functionPRO/unpacking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KristinaTomash"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KristinaTomash&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KristinaTomash/QA54_Phyton_Auto.git",
-    "accountId": "5092f8c0-d737-4697-812d-ae7c76519e98"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KristinaTomash/QA54_Phyton_Auto.git&quot;,
+    &quot;accountId&quot;: &quot;5092f8c0-d737-4697-812d-ae7c76519e98&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3JmKlvIpijUkBBauJFEfK7niR4P" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,12 +58,21 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.args.executor": "Run",
+    "Python.csv.executor": "Run",
+    "Python.csv_file.executor": "Run",
     "Python.dict.executor": "Run",
+    "Python.file_read.executor": "Run",
+    "Python.files.executor": "Run",
+    "Python.filter.executor": "Run",
     "Python.functionPRO.executor": "Run",
     "Python.kwargs.executor": "Run",
+    "Python.lambda.executor": "Run",
+    "Python.map.executor": "Run",
+    "Python.unpacking.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -96,13 +114,22 @@
       <option name="project" value="LOCAL" />
       <updated>1790272555588</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add 3">
+      <option name="closed" value="true" />
+      <created>1790517887245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790517887246</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add 1" />
     <MESSAGE value="Add 1.1" />
     <MESSAGE value="Add 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2" />
+    <MESSAGE value="Add 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 3" />
   </component>
 </project>
